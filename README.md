@@ -1,1 +1,1 @@
-# File-editor
+verantwortlicher: christian@palm-family.de
